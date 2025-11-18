@@ -1,0 +1,7 @@
+{
+  "name_server": "localhost",
+  "database": "CatequesisDB",
+  "username": "tu_usuario",
+  "password": "tu_contraseña",
+  "controlador_odbc": "SQL Server"
+}
